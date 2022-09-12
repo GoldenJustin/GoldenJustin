@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GoldenJustin
-- 👀 I’m interested in ...code
-- 🌱 I’m currently learning .py
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in programming
+- 🌱 I’m currently developing Mobile apps & Web applications
+- 💞️ I’m looking to collaborate on any Innovative Technological aspects
 - 📫 How to reach me AM EMAIL...justinemsengi@gmail.com 
 
 <!---
